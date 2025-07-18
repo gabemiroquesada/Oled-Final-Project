@@ -28,7 +28,7 @@ Originally inspired by a previous challenge with OLED displays on an FPGA, this 
 -  Player-vs-CPU mode with basic AI paddle behavior
 -  Bonus: In-progress Galaga-like game 
 
-## 📷 Gameplay Preview
+##  Gameplay Preview
 
 Player paddle and CPU paddle bounce the ball across the screen. First to 3 points wins. Game displays on OLED with real-time updates.
 
@@ -45,7 +45,7 @@ University of Tennessee, Knoxville
 ECE 455 Final Project  
 Mentored by Dr. Himanshu Thapliyal
 
-## 📚 References
+##  References
 
 - [Microcontrollers Lab – OLED Interfacing with TM4C123G](https://microcontrollerslab.com/oled-interfacing-with-tm4c123g-display-texts-and-graphics/)
 - [Hackster.io – OLED Pong Game for Arduino UNO](https://www.hackster.io/kelly77/oled-0-96-inch-display-pong-game-for-arduino-uno-r3-02fdfb)
