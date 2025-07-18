@@ -1,0 +1,107 @@
+Dependencies for Project 'finap', Target 'tm4c': (DO NOT MODIFY !)
+CompilerVersion: 6190000::V6.19::ARMCLANG
+F (.\main.c)(0x6743C191)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_tm4c-IC:/Users/Gabe/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Gabe/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="538" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/main.o -MD)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x5510368C)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\core_cm4.h)(0x664C8F58)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388FFD8)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_version.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_compiler.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_armclang.h)(0x664C8F58)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6388FFD8)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\armv7m_mpu.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
+I (I2C.h)(0x6743C195)
+I (OLED.h)(0x6741087E)
+I (pong2player.h)(0x6743C18E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x6388FFD8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388FFD8)
+F (.\game.c)(0x6743C1C3)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_tm4c-IC:/Users/Gabe/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Gabe/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="538" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/game.o -MD)
+I (I2C.h)(0x6743C195)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388FFD8)
+I (OLED.h)(0x6741087E)
+I (game.h)(0x6741087D)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x6388FFD8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388FFD8)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x5510368C)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\core_cm4.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_version.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_compiler.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_armclang.h)(0x664C8F58)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6388FFD8)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\armv7m_mpu.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
+I (pongcourt.h)(0x6743C192)
+F (.\game.h)(0x6741087D)()
+F (.\OLED.c)(0x6743C194)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_tm4c-IC:/Users/Gabe/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Gabe/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="538" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/oled.o -MD)
+I (OLED.h)(0x6741087E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388FFD8)
+I (I2C.h)(0x6743C195)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6388FFD8)
+F (.\OLED.h)(0x6741087E)()
+F (.\I2C.c)(0x6743C194)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_tm4c-IC:/Users/Gabe/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Gabe/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="538" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/i2c.o -MD)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x5510368C)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\core_cm4.h)(0x664C8F58)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388FFD8)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_version.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_compiler.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_armclang.h)(0x664C8F58)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6388FFD8)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\armv7m_mpu.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
+I (I2C.h)(0x6743C195)
+F (.\I2C.h)(0x6743C195)()
+F (.\font.c)(0x6740F70A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_tm4c-IC:/Users/Gabe/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Gabe/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="538" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/font.o -MD)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x5510368C)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\core_cm4.h)(0x664C8F58)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388FFD8)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_version.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_compiler.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_armclang.h)(0x664C8F58)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6388FFD8)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\armv7m_mpu.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6388FFD8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388FFD8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x6388FFD8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\math.h)(0x6388FFD8)
+F (.\font.h)(0x6740F70A)()
+F (.\Pong2player.c)(0x6743C1C3)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_tm4c-IC:/Users/Gabe/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Gabe/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="538" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/pong2player.o -MD)
+I (I2C.h)(0x6743C195)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388FFD8)
+I (OLED.h)(0x6741087E)
+I (Pong2player.h)(0x6743C18E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x6388FFD8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388FFD8)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x5510368C)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\core_cm4.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_version.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_compiler.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_armclang.h)(0x664C8F58)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6388FFD8)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\armv7m_mpu.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
+I (pongcourt.h)(0x6743C192)
+F (.\Pong2player.h)(0x6743C18E)()
+F (.\pongcourt.c)(0x6743C192)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_tm4c-IC:/Users/Gabe/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Gabe/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="538" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/pongcourt.o -MD)
+I (pongcourt.h)(0x6743C192)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388FFD8)
+I (OLED.h)(0x6741087E)
+F (.\pongcourt.h)(0x6743C192)()
+F (RTE/Device/TM4C123GH6PM/startup_TM4C123.s)(0x51B73866)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/_tm4c-IC:/Users/Gabe/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Gabe/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-Wa,armasm,--pd,"__UVISION_VERSION SETA 538" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"TM4C123GH6PM SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_tm4c123.o)
+F (RTE/Device/TM4C123GH6PM/system_TM4C123.c)(0x550ABA3A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_tm4c-IC:/Users/Gabe/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Gabe/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="538" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o ./objects/system_tm4c123.o -MD)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388FFD8)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F4756)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x5510368C)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\core_cm4.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_version.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_compiler.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\cmsis_armclang.h)(0x664C8F58)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6388FFD8)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\armv7m_mpu.h)(0x664C8F58)
+I (C:\Users\Gabe\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
